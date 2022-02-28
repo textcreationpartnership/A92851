@@ -1,0 +1,444 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Elisha his lamentation, upon the suddain translation of Elijah. Opened in a sermon at the funeral of Mr. VVilliam Strong, that eminently faithful servant and minister of Christ. By Obadiah Sedgwick, B.D. and preacher of the Gospel in Covent Garden.</title>
+            <author>Sedgwick, Obadiah, 1600?-1658.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 61 KB of XML-encoded text transcribed from 20 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92851</idno>
+            <idno type="STC">Wing S2371</idno>
+            <idno type="STC">Thomason E745_14</idno>
+            <idno type="STC">ESTC R203519</idno>
+            <idno type="EEBO-CITATION">99863458</idno>
+            <idno type="PROQUEST">99863458</idno>
+            <idno type="VID">115660</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92851)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115660)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 114:E745[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Elisha his lamentation, upon the suddain translation of Elijah. Opened in a sermon at the funeral of Mr. VVilliam Strong, that eminently faithful servant and minister of Christ. By Obadiah Sedgwick, B.D. and preacher of the Gospel in Covent Garden.</title>
+                  <author>Sedgwick, Obadiah, 1600?-1658.</author>
+               </titleStmt>
+               <extent>[8], 30 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R.W. for Francis Tyton, at the sign of the three Daggers in Fleet-street, near the Inner-Temple Gate.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "July. 7".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Strong, William, d. 1654.</term>
+               <term>Bible. --  O.T. --  Kings, 2nd II, 12 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+               <term>Funeral sermons --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115660:1" rendition="simple:additions"/>
+            <pb facs="tcp:115660:1"/>
+            <p>Eliſha his Lamentation, Upon the ſuddain Tranſlation of <hi>ELIJAH.</hi> Opened in a SERMON At the Funeral of M<hi rend="sup">r</hi>. VVilliam Strong, That Eminently Faithful Servant and Miniſter of CHRIST.</p>
+            <p>By <hi>Obadiah Sedgwick,</hi> B. D. and Preacher of the Goſpel in <hi>Covent Garden.</hi>
+            </p>
+            <q>
+               <bibl>ZACHARY 1. 5.</bibl>
+               <p>
+                  <hi>And the Prophets, do they live for ever?</hi>
+               </p>
+            </q>
+            <q>
+               <bibl>HEBREVVS 3. 7. </bibl>
+               <p>
+                  <hi>To day if ye will hear his Voice.</hi>
+               </p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>R. W.</hi> for <hi>Francis Tyton,</hi> at the Sign of the three Daggers in <hi>Fleet-ſtreet,</hi> near the <hi>Inner-Temple</hi> Gate. 1654.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:115660:2"/>
+            <pb facs="tcp:115660:2"/>
+            <head>To the Right VVorſhipful, Colonel <hi>Boſwell, Henry Scobel,</hi> 
+               <abbr>Eſq</abbr> Mr. <hi>Thomas Ruſhall;</hi> and to all the reſt of the Congregation, lately pertaining unto the care of that Faithful Pa<g ref="char:EOLhyphen"/>ſtor, Mr. WILLIAM STRONG, Preacher of the Goſpel at <hi>Weſt<g ref="char:EOLhyphen"/>minſter</hi> ABBEY.</head>
+            <p>
+               <seg rend="decorInit">Y</seg>Ou were pleaſed to put me upon that ſad ſervice of Preaching at the Fu<g ref="char:EOLhyphen"/>neral of your worthy and dear Paſtor; And ſhortly after that, upon another ſer<g ref="char:EOLhyphen"/>vice of Printing what I then had pub<g ref="char:EOLhyphen"/>likely Preached; I confeſs that I never Preached a Sermon (in this kind) with more grief of heart, and never did I diſcern a Sermon heard and attended
+<pb facs="tcp:115660:3"/>
+with more weeping eyes: certainly God had given in unto him the affecti<g ref="char:EOLhyphen"/>ons of many perſons, who loved him in his life, and bitterly lamented him at his death.</p>
+            <p>I was almoſt fallen out with the thoughts of publiſhing any occaſional Sermons, as being moſt proper for ſcope, and uſe, and working, to the preſent Auditory: But your ge<g ref="char:EOLhyphen"/>nerall deſire hath prevailed upon me to deny my own judgement; and ſince it muſt be ſo, here you have thoſe ſud<g ref="char:EOLhyphen"/>den and weak fruits (ſuch as they are) and the bleſsing of the Lord go with them.</p>
+            <p>Of what other advantage they may be (beſides the keeping up a while the name and memory of ſo pretious a ſervant of Chriſt) I know not; but yet I truſt that God may intend them, and
+<pb facs="tcp:115660:3"/>
+now doth ſend them abroad for the good of the living.</p>
+            <p>Of this I am ſure, that every perſo<g ref="char:EOLhyphen"/>nal change in the world is an effect of his providence; and that there is a do<g ref="char:EOLhyphen"/>ctrinal will for the living, in every pro<g ref="char:EOLhyphen"/>vidential will of God concerning the dead: and the greater that any perſon is in his relation of uſefulneſs, and ſer<g ref="char:EOLhyphen"/>viceableneſs to Chriſt and his Church, the more emphatical <hi>Selah</hi> doth the Lord (in the removal of him) print out for the children of men.</p>
+            <p>There was honey found by <hi>Samp<g ref="char:EOLhyphen"/>ſon</hi> in the carcaſe of the dead Lyon, ſo are there many ſweet inſtructions and leſſons to be gathered, not onely out of the lives, but alſo out of the deaths of the Miniſters of Chriſt. The laſt Sermon which a people are to ſtu<g ref="char:EOLhyphen"/>dy, and diligently to peruſe, is the
+<pb facs="tcp:115660:4"/>
+death of their Godly Paſtor; for in this God himſelf doth immediatly preach unto them.</p>
+            <p>As when Miniſters do live, it is but hypocriſie to give them onely a few good words: ſo when they dye, it is but a formality onely to ſhed over them a few ſad tears.</p>
+            <p>O that you your ſelves, (&amp; the many other Congregations) who of late have carried their Faithful and laborious Miniſters to the grave, would ſeriouſ<g ref="char:EOLhyphen"/>ly remember that you muſt anſwer God for the quick and for the dead, for your living <hi>Miniſters,</hi> &amp; for your dead <hi>Miniſters:</hi> there are living uſes to be made out of dead inſtances: Live, and live the better, live up to the power of Truth and Godlineſs, live like ſuch as are even parting with life, and in hazzard about a ſeaſon: Live like ſuch,
+<pb facs="tcp:115660:4"/>
+who did enjoy, and who again would enjoy a choice ſervant to your <hi>Mini<g ref="char:EOLhyphen"/>ſter.</hi>
+            </p>
+            <p>Though Minſters dye, yet Chriſt lives, and he is preſent with you, &amp; he obſerves all your heart &amp; ways: therfore as you formerly have, ſo now eſpecially ſtrive to abound much more in hea<g ref="char:EOLhyphen"/>venly wiſdom, in ſound Iudgement, in Faith and Love to our Lord Ieſus, in meekneſs, and gentleneſs, and profita<g ref="char:EOLhyphen"/>bleneſs one towards another, and in all exactneſs of holy walking before your God; hereupon ſhall you find your late great loſs gratiouſly ſupplied in the anſwer of your fervent prayers: here<g ref="char:EOLhyphen"/>upon ſhall you find the teſtimony of a good conſcience; hereupon ſhall you find peace in death, and after that, the Crown of life, which God will give to all that love him.</p>
+            <p>
+               <pb facs="tcp:115660:5"/>And for other People, let them Re<g ref="char:EOLhyphen"/>pent of the evil handling of their Faith<g ref="char:EOLhyphen"/>ful Miniſters, and beſeech the Lord to give them hearts in their day of Grace, yet to know the things which do con<g ref="char:EOLhyphen"/>cern their Peace; which that we all may do, ſhall be the prayer of</p>
+            <closer>
+               <signed>Your Servant in the Faith of Chriſt Obadiah Sedgwick.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:115660:5"/>
+            <head>A SERMON LATELY PREACHED In the <hi>Abbey</hi> of <hi>Weſtminſter, July</hi> 4<hi rend="sup">th</hi>. 1654. At the Funeral of M<hi rend="sup">r</hi>. VVilliam Strong, Preacher of the Goſpel there.</head>
+            <epigraph>
+               <bibl>2 KINGS 2. 12.</bibl>
+               <q>And Eliſha ſaw it, and he cryed, My Father, My Father; The Charet of <hi>Iſrael,</hi> and the Horſemen thereof: and he ſaw him no more, and he took hold of his own Clothes, and Rent them in two pieces.</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">I</seg>N the Former Verſe, <hi>Elijah</hi> and <hi>Eliſha</hi> are paſſing on, and diſcourſing together: What that Diſcourſe was, it is not Expreſſed. Some do preſume to tell us particularly what it was: but very probable it is, that the diſcourſe <note place="margin">As <hi>Lyra</hi> and others of the Papiſts.</note>
+               <pb n="2" facs="tcp:115660:6"/>
+was altogether ſuitable unto ſo great and Holy a Prophet as <hi>Elijah</hi> was: It was very profitable, and very Heavenly, he being preſently to be taken up into Heaven.</p>
+            <p>Whiles they were thus diſcourſing, on a ſuddain <hi>there appeared a Charet of fire, and Horſes of fire, and parted</hi> 
+               <note place="margin">Verſe 11.</note> 
+               <hi>them both aſunder, and</hi> Elijah <hi>went up by a Whirlwind into heaven.</hi> By the <hi>Charet and horſes of fire, Peter Martyr</hi> 
+               <note place="margin">P. Martyr <hi>In Locum.</hi>
+               </note> underſtands the Angels of God, who at this time did put on the ſpecies or appearance of <hi>fire:</hi> And with this <hi>fiery</hi> Apparition God was pleaſed to honor <hi>Elijah</hi> at his departure: who in his life time had ſo much honored his God with the <hi>fire</hi> of Zeal for his Truth, and Wor<g ref="char:EOLhyphen"/>ſhip.</p>
+            <p>
+               <hi>And he went up by a Whirlwind into heaven.</hi> Some do read it, <hi>that he went up by a Whirlwind of heaven,</hi> or by an <hi>heavenly Whirlwind:</hi> which denotes the manner of his Aſcenſion: but our General Tranſlation and Reading is beſt, which doth more ſignificantly denote the place unto which he was then carried, Namely, Heaven.</p>
+            <p>Therefore that Opinion of the Papiſts is very fond: who do Affirm that <hi>Elijah was carried into Paradiſe,</hi> there to ſtay with <hi>Enoch</hi> untill towards the end of the world, and then both of them are to come forth, and to Preach againſt Antichriſt. But this is a meer fancy all along, the Text ſaith plainly, <hi>Elijah went up by a Whirl<g ref="char:EOLhyphen"/>wind</hi> 
+               <note place="margin">Contra perfi<g ref="char:EOLhyphen"/>dium Anti<g ref="char:EOLhyphen"/>chriſti.</note> 
+               <hi>into heaven.</hi> But what heaven he went into, is ſomewhat argued, eſpecially by the Papiſts, who it <note place="margin">A three-fold Heaven.</note> ſeems will by no means have that Zealous enemy to Idolatry to be carried into the heaven of the bleſſed: There is indeed <hi>Coelum Aerium</hi> (the Aiery Heaven, where the Fowls of Heaven do flee) and there is <hi>Coelum Aſtri<g ref="char:EOLhyphen"/>ferum,</hi> where the Stars of heaven are: and there is <hi>Coelum Beatorum,</hi> the heaven of the Bleſſed, where God ap<g ref="char:EOLhyphen"/>pears
+<pb n="3" facs="tcp:115660:6"/>
+in eminency, and where Jeſus Chriſt is in Glory, and the ſouls of juſt men made perfect, thither is <hi>Elijah</hi> carried up, after all his Pains, and Sufferings, and Trou<g ref="char:EOLhyphen"/>bles, and Faithfulneſs: Thither I ſay, is he carried up, to receive his Reward, and <hi>Eliſha</hi> is left behind to do his Maſter more ſervice.</p>
+            <p>But how doth <hi>Eliſha</hi> take this ſuddain parting, and loſs of precious <hi>Elijah?</hi> The Text tells you <hi>(Eliſha ſaw it, and he cried my Father! my Father!)</hi>
+            </p>
+            <p>Theſe words may be called, <hi>The Lamentations of</hi> Eliſha: upon the ſuddain Tranſlation of that eminent Prophet <hi>Elijah:</hi> In which you may diſcern.</p>
+            <p n="1">1. His exceeding Grief and Sorrow: <hi>He cryed out,</hi> and until <hi>he ſaw him no more</hi> (ſo <hi>Junius</hi> &amp; <hi>Tremellius</hi> Read thoſe words, <hi>And he ſaw him no more) And he rent his clothes in two pieces,</hi> as Anciently was the Practiſe upon the loſs, and at the Funerals of dear friends, and of choice and eminent Perſons.</p>
+            <p n="2">2. The cauſes of this his great grief and ſorrow: And they were 1. His own particular loſs. The loſs of <hi>Elijah</hi> was unto <hi>Eliſha</hi> as the loſs a loving and dear <hi>Father,</hi> unto a loving and dear <hi>Child (my Father! my Father!)</hi> As <hi>David</hi> once about <hi>Abſolom, my Son, my Son!</hi> So <hi>Eliſha</hi> here for <hi>Elijah, my Father, my Father!</hi> Ah <hi>my Father! my Father!</hi> Oh I have loſt a <hi>Father, my Father,</hi> ſuch a <hi>Father</hi>—The <hi>Chaldee</hi> Interpreter renders it, <hi>Rabbi, Rabbi: my Maſter, my Maſter:</hi> But in the <hi>Hebrew</hi> it is, <hi>Abba, Abba: my Father, my Father!</hi>
+            </p>
+            <p>2. The publique loſs <hi>(The Charret of</hi> Iſrael, <hi>and the Horſemen thereof)</hi> As if he had ſaid, one of the beſt In<g ref="char:EOLhyphen"/>ſtrumental helps and ſafeties that all <hi>Iſrael</hi> enjoyed, is now taken away; O the Staffe and the ſtay is bro<g ref="char:EOLhyphen"/>ken!</p>
+            <p>
+               <pb n="4" facs="tcp:115660:7"/>What the Charet and the horſemen are to an Army, or to a State, and what the loſs of them is unto a State; That was the life, and that was the loſs of this Prophet <hi>Elijah</hi> unto all <hi>Iſrael.</hi>
+            </p>
+            <p>There are two Propoſitions onely which I would briefly diſcourſe upon from this Text, at this time, and with reſpect to this ſad occaſion.</p>
+            <list>
+               <item>1. That even the moſt eminently Faithfull and Zea<g ref="char:EOLhyphen"/>lous Prophets of God, may be, and ſhall be taken away from a people.</item>
+               <item>2. That the loſs of any one eminently Faithfull and Zealous Prophet of God, ſhould affect the hearts of people with exceeding Grief and Lamenta<g ref="char:EOLhyphen"/>tion.</item>
+            </list>
+            <p>
+               <hi>I begin with the firſt of theſe: That even the moſt emi<g ref="char:EOLhyphen"/>nently</hi> 
+               <note place="margin">1. Propoſiti<g ref="char:EOLhyphen"/>on.</note> 
+               <hi>Faithful and Zealous Prophets of God, may be, and ſhall be taken away from a people.</hi>
+            </p>
+            <p>The Prophets or Miniſters of God, they are of dif<g ref="char:EOLhyphen"/>ferent Parts and Gifts, and they are of different Spirits, and they are of different Uſe and Service: Put them in Compariſon one with another, ſome are as Stars of the firſt Magnitude, and others of a leſſer Magnitude: ſome are as the Cedars, and others are but as ordinary Trees: Some are more richly and plentifully endowed and furniſhed, others are not ſo, they are lower by the <note place="margin">As <hi>Elijah, Paul, Calvin</hi> and <hi>Luther.</hi>
+               </note> head: ſome are vigorouſly active, and are raiſed up, and laid out for the General Advantages and Managements of Religion, yet others are not ſo; though al be Builders, yet all of them are not Maſter-Builders. They differ much in their Gifts, in their Graces, in their Services, <note place="margin">Gifts will free from In<g ref="char:EOLhyphen"/>diſcretion, &amp; Grace from Hell, but no<g ref="char:EOLhyphen"/>thing from Death.</note> in their Uſefulneſs: Nevertheleſs they muſt all agree in this, they muſt all dye, they muſt all be taken away: Here in the Text, <hi>Elijah was taken away,</hi> and what was he? he was a Prophet, and in ſome ſenſe more then a
+<pb n="5" facs="tcp:115660:7"/>
+Prophet: He was a Prophet of the higheſt rate, moſt eminent for Faithfulneſs and Zeal, (That was his ex<g ref="char:EOLhyphen"/>cellency) <hi>Noah</hi> was eminent for Uprightneſs, and <hi>Mo<g ref="char:EOLhyphen"/>ſes</hi> for Meekneſs, and <hi>Job</hi> for Patience, and <hi>Solomon</hi> for Wiſdom, and <hi>Joſhua</hi> for Proweſs, and <hi>Joſiah</hi> for Ten<g ref="char:EOLhyphen"/>derneſs, and <hi>Eliſha</hi> for Miracles, and <hi>Elijah</hi> for Zeal, and Courage, and Faithfulneſs: All the falſe Prophets were nothing to him, nor <hi>Jezabel</hi> the Queen, nor <hi>Ahab</hi> the King: and although (in his Opinion) he was left alone to ſuſtain the cauſe of God; yet he alone con<g ref="char:EOLhyphen"/>tinued Faithful and Zealous. Nevertheleſs this Holy and Excellent man of God is taken away, and ſuddain<g ref="char:EOLhyphen"/>ly, and in a very needfull time.</p>
+            <p>Zachariah 1. 5. <hi>Your Fathers, where are they? And the Prophets, do they live for ever?</hi>
+            </p>
+            <p>No, No, they do not <hi>live for ever;</hi> Nor yet (many times) very long! You may find them for a while in the Study, and for a while in the Pulpit, and after a little while you may find them in their Graves.</p>
+            <p>The Reaſons of this Divine diſpenſation (beſides many other) are theſe: <note place="margin">4. Reaſons why God takes away his moſt Faithful Prophets.</note>
+            </p>
+            <p n="1">1. Becauſe even the moſt Faithful Prophets of God, are Stewards but for a time; of them as well as of others it muſt be ſaid, Ye ſhall be no longer Stewards: they have their determined work, and their allotted time for that work; Their Reward ſhall be meaſured by Eternity. But their work and their life are meaſured by time; So much work for ſo much time, and then their Maſter calls them home.</p>
+            <p>In Scripture you Read that they are ſometimes called <hi>Ambaſſadors,</hi> who are choice perſons ſent abroad by a <note place="margin">2 Cor. 5. 20.</note> ſpecial Commiſſion; And when they have finiſhed their Legation or Treaty, then muſt they return back unto their Prince; The Prophets or miniſters of God,
+<pb n="6" facs="tcp:115660:8"/>
+are the Ambaſſadors of God in a ſpecial manner, Au<g ref="char:EOLhyphen"/>thorized to treat with ſinners to be reconciled, per<g ref="char:EOLhyphen"/>haps ſinners will hearken unto them, and conclude up<g ref="char:EOLhyphen"/>on terms of ſaving agreement, perhaps they will not: Theſe have but their time to hearken, and they have but their time to offer and perſwade, and when that is expired, the Lord calls them home.</p>
+            <p>Again, you find them ſometimes called labourers and workmen; the labourer goes forth in the morning, <note place="margin">2 Cor. 3. 9.</note> and he does his dayes work, which when he hath finiſh<g ref="char:EOLhyphen"/>ed, then he comes home and takes his Reſt. Thus it is, and thus it ſhall be with the beſt of Gods Prophets and Miniſters, who are alſo called the Meſſengers of God, and muſt return unto him an anſwer, what they have done, and how they have ſped.</p>
+            <p n="2">2. There is a day of recompence for them, their re<g ref="char:EOLhyphen"/>ward is with the Lord, they are imployed by a good Maſter; and as there are the works of faithful ſervants for them todo, ſo there is the reward of a faithful maſter for them to receive: there is a Prophets work here, and a Prophets reward hereafter; Chriſt calls it our Maſters joy, and <hi>Paul</hi> calls it a Crown of Righteouſneſs; the faithful and laborious Miniſters of God, though deſpiſed and injured by men on earth, yet they are loved and encouraged by Chriſt; and as they are a means to ſave others, ſo they themſelves ſhall be ſaved, &amp; ſhall ſhine as the ſtars for ever and ever, they ſhall be with the Lord for ever, they ſhal be everlaſtingly bleſſed.</p>
+            <p>And therefore they muſt dye, they muſt away, elſe they cannot take poſſeſſion of the inheritance reſerved for them, nor of the Crown laid up for them; indeed in this life they have the aſſured hopes of eternal bleſſed<g ref="char:EOLhyphen"/>neſs, and the firſt fruits, and ſome Taſts; but the full and perfect poſſeſſion and fruition comes not to them, nor
+<pb n="7" facs="tcp:115660:8"/>
+to any in this life: that comes onely after death, and therefore <hi>Paul</hi> deſires to be diſſolved, and ſo to be with Chriſt.</p>
+            <p n="3">3. The Lord doth this, to puniſh the ingratitude of people, who do deſpiſe, and diſgrace, and deſpight<g ref="char:EOLhyphen"/>fully uſe his ſervants, the Prophets, and injuriouſly handle them, and there is no man that will plead for them, and right them.</p>
+            <p>Of all the men in the world, the faithful Prophets of God do the moſt good to others, and find the worſt reception from them.</p>
+            <p>Jeſus Chriſt chargeth this unworthy dealing upon Jeruſalem, <hi>Mat.</hi> 23. 37. <hi>O Ieruſalem, Ieruſalem, thou that killeſt the Prophets, and ſtoneſt them which are ſent unto thee!</hi> And Stephen chargeth it upon them, <hi>Act.</hi> 7. 52. <hi>Which of the Prophets have not your Fathers perſe<g ref="char:EOLhyphen"/>cuted?</hi> And <hi>Paul</hi> complains in 1 <hi>Cor.</hi> 4. 13. <hi>We are made as the filth of the world, and are the off-ſcouring of all things to this very day.</hi> Men do affront and contemn, they do revile and reproach, they do oppoſe and con<g ref="char:EOLhyphen"/>tradict, they do threaten and perſecute the faithful Pro<g ref="char:EOLhyphen"/>phets of God, and thoſe of them who are moſt faithful and moſt zealous, are moſt hated and moſt perſecuted.</p>
+            <p>Now the Lord will not bear with this odious ingra<g ref="char:EOLhyphen"/>titude, and with this barbarous injuriouſneſs done un<g ref="char:EOLhyphen"/>to his faithful ſervants; he is extreamly ſenſible of all the evil done unto them, of all the evil words ſpoken againſt them, and of all the evill counſel and devices taken againſt them, and of all the evil works done againſt them: <hi>Touch not mine Anointed, and do my Pro<g ref="char:EOLhyphen"/>phets</hi> 
+               <note place="margin">Pſa. 105. 15. Act. 9. 4.</note> 
+               <hi>no harm,</hi> ſaith God: <hi>Saul, Saul, why perſecuteſt thou me?</hi> ſaith Chriſt.</p>
+            <p>And therefore he takes away his choice Prophets and Servants in Judgement, from ſuch an ungracious and
+<pb n="8" facs="tcp:115660:9"/>
+ungrateful people, in effect ſaying unto them thus much. <hi>Ye will not be taught, and you ſhall not be taught any more, and you will not hearken unto my meſſengers, but mock and deſpiſe them; therefore they ſhall ſpeak no more unto you in my name, your houſe ſhall be left unto you deſo<g ref="char:EOLhyphen"/>late. Ye ſhall not ſee me henceforth</hi> (ſaid Chriſt) <hi>till ye ſhall ſay, bleſſed is he that cometh in the name of the Lord.</hi> 
+               <note place="margin">Mat. 23. 39.</note>
+            </p>
+            <p n="4">4. The fourth and laſt reaſon why the Lord takes away his moſt eminently, faithfull and zealous Pro<g ref="char:EOLhyphen"/>phets from a people, is this, To ſhew unto a people the uncertainty and inſtability even of ſpiritual oppor<g ref="char:EOLhyphen"/>tunities, that they are but a ſeaſon (which is pretious, but unſure) that they are a ſhort day, and a Sun that may ſet a noon day.</p>
+            <p>There are four things which do admit of much un<g ref="char:EOLhyphen"/>certainty.</p>
+            <p n="1">1. One is all our earthly poſſeſſions and comforts; <hi>wilt thou ſet thine eyes on that which is not?</hi> ſaith <hi>Solomon, Prov.</hi> 23. 5. There is no earthly comfort whatſoever, which is not altogether uncertain, nay altogether uncer<g ref="char:EOLhyphen"/>tainty; it is but as the ſhade on the dyall, on which you look, and may be gone before you turn back to look on it again.</p>
+            <p n="2">2. The ſecond is, The gratious motions of the Spi<g ref="char:EOLhyphen"/>rit of God working upon our ſpirits: <hi>My ſpirit ſhall not always ſtrive with man,</hi> Gen. 6. 3. <hi>Rara Hora, Brevis mora,</hi> ſaith <hi>Bernard.</hi> The dealings of Gods Spirit with us, are many times like <hi>Peters</hi> viſion of the ſheet, which was let down, but quickly drawn up to heaven again; and indeed there is no man who reſiſts or neglects any one motion of Gods Spirit, but he puts it upon an un<g ref="char:EOLhyphen"/>certainty, whether he ſhall meet with any other motion more.</p>
+            <p n="3">3. The third is the day of Grace, our Goſpel-day,
+<pb n="9" facs="tcp:115660:9"/>
+wherein Chriſt reveals himſelf, and offers himſelf, and mercy, and peace, and ſalvation; this is a day for eter<g ref="char:EOLhyphen"/>nity, but it is not an eternal day: It may quickly be loſt, and for ever loſt. <hi>O if thou hadſt known</hi> (ſaid Chriſt to Jeruſalem) <hi>even Thou, at the leaſt in this thy day, the things which concern thy peace—But now they are hid from</hi> 
+               <note place="margin">Luk. 19. 42.</note> 
+               <hi>thine eyes: q. d.</hi> Thou hadſt thy day, Thou didſt not make uſe of thy day, and now thou haſt loſt thy day.</p>
+            <p n="4">4. The fourth is, all the lifes, and pains, and labours of the Prophets and Miniſters of God, they are all fluent and uncertain.</p>
+            <p>This day the Miniſter lives and preaches, the next day he is ſick and dyes; you cannot ſay of the beſt Mi<g ref="char:EOLhyphen"/>niſter on earth, he ſhall be ours for ever, or long, or a week, or a day: ſuch an inſtability is there, not onely in the beſt of our outward comforts, but alſo in the beſt of our ſpiritual helps.</p>
+            <p>And there is much of the wiſdom of God in this very particular contingency, he hath his good ends in it, to awaken the hearts of people from carnal ſecurity and preſumption, from all careleſneſs and neglects, and to ſtir and quicken them to all heavenly ſeriouſ<g ref="char:EOLhyphen"/>neſs, and wiſe carefulneſs, both to know the day of their viſitation, and likewiſe to improve the light, whiles they enjoy the light.</p>
+            <p>There are two works upon which all ſpiritual un<g ref="char:EOLhyphen"/>certainties (in Friends or Miniſters) ſhould put us.</p>
+            <p n="1">1. One is therefore to prize what is preſent; there is no certainty but in that which is preſent, that is ours, and nothing but that is ours: The preſent Ser<g ref="char:EOLhyphen"/>mon, that is ours, and the preſent offer of Chriſt; prize what is preſent, for the future is uncer<g ref="char:EOLhyphen"/>tain.</p>
+            <p n="2">
+               <pb n="10" facs="tcp:115660:10"/>2. Another is therefore to act with all our pow<g ref="char:EOLhyphen"/>er, to do as much in a little time, as others are do<g ref="char:EOLhyphen"/>ing in a long time. Nay, to be ſtriving and treaſur<g ref="char:EOLhyphen"/>ing up in a little time ſo fervently, and ſo diligent<g ref="char:EOLhyphen"/>ly, as if we had no more time.</p>
+            <p>There is an uncertainty in the lives of Gods Pro<g ref="char:EOLhyphen"/>phets, therefore people ſhould ply their doctrine, and their help with all theirs ſtrength; hear them as if they ſhould never hear them more, and confer and draw from them, as if they ſhould never ſpeak with them any more; but more of this in the uſes now following:</p>
+            <p>May and doth God tranſlate even an <hi>Elijah?</hi> doth he take away the moſt eminently faithful, and zea<g ref="char:EOLhyphen"/>lous <note place="margin">
+                  <g ref="char:V">Ʋ</g>ſe. 1. A double Ad<g ref="char:EOLhyphen"/>vertiſement.</note> Prophets? Hence a double advertiſement, 1. One to Miniſters. 2. The other to People.</p>
+            <p>Firſt to Miniſters; loyter not, looſe no time, ſtand not idle at all, up and be doing your Maſters work; do not talk of this pain, and of that ach, nor of this weak<g ref="char:EOLhyphen"/>neſs, nor of that indiſpoſition, but ſpend and be ſpent, be inſtant in ſeaſon and out of ſeaſon, watch and la<g ref="char:EOLhyphen"/>bour, pray and inſtruct, reprove and comfort, pull down, and build up, always abounding in the work of the Lord, O ſaid that eminently religious, and judici<g ref="char:EOLhyphen"/>ous <hi>Calvin,</hi> (who had worn himſelf to the very bone with often praying, and ſtudying, and preaching, and writing; and therefore, being entreated by his friends a little to ſpare himſelf, no ſaith he, but) I deſire that when my Maſter comes, he ſhould find me working: And ſo that pretious <hi>Jewel,</hi> his deſire was that he <note place="margin">Nec propter vitam, vi<g ref="char:EOLhyphen"/>vendi perdere finem.</note> might dye preaching: And learned and pious <hi>Reynolds,</hi> he would not loſe time, he lookt at the end of life, more then at life it ſelf.</p>
+            <p>O Brethren! Ye alſo have but your day, ye have but your day to ſerve the Lord Jeſus Chriſt, and ye
+<pb n="11" facs="tcp:115660:10"/>
+have but your day to ſave you own ſouls; and ye have but your day to ſave the ſouls of them that hear you: And your day of working ſeems to be more variable and contingent then the day of other men; for if ye be impartially faithful, and zealous, ye ſhall be ſure to meet with all diſcouragements and oppoſitions from all ſorts of ungodly men: who if they cannot ſtop your mouths, will yet do all they can to break your hearts. And beſides that, your conſtant ſtudies, and diligent labours, and publike preachings, and private confe<g ref="char:EOLhyphen"/>rences, and ſeveral other imployments, will weaken your ſpirits, ſpend your lungs, conſume your ſtrength, and haſten your death.</p>
+            <p>However, the Lord will take you away, and per<g ref="char:EOLhyphen"/>haps he will come and take you away ſuddenly: therefore be diligent ſtill, and laborious ſtill, and faith<g ref="char:EOLhyphen"/>ful ſtill, and zealous ſtill, and wiſe ſtill, in giving unto every ſervant his proper portion. <hi>Bleſſed is that ſervant, whom when his Maſter comes, he ſhall find ſo doing:</hi> this is he who ſhall meet with that welcome, <hi>well done, good and faithful ſervant, enter thou into the joy of thy Lord.</hi>
+            </p>
+            <p>2. Secondly to the People; Seeing that their faithful Prophets and Miniſters ſhall be taken away from them, let them remember two things for their parts.</p>
+            <p n="1">1. Let them encourage faithful and zealous Pro<g ref="char:EOLhyphen"/>phets, who do enjoy them: O do not kill them, and break their hearts, and thruſt them into their graves by ſlightings, by revilings, by quarrellings, by troub<g ref="char:EOLhyphen"/>lings, by remaining ſtill ignorant, and unprofitable, and barren; nor by continuing obſtinate, diſobedient, hard<g ref="char:EOLhyphen"/>ned, and unbelieving.</p>
+            <p>No, by no means, but honour them, and love them, and deal kindly with them, and pray for them, and en<g ref="char:EOLhyphen"/>courage them all you can: Why Sirs, They do pitty
+<pb n="12" facs="tcp:115660:11"/>
+your ſouls, and they do watch for your ſouls, and they do pray for your ſouls, and they do ſtudy and weep, and preach to ſave your ſouls. And therefore let them have love for love, &amp; care for care, and reſpect for reſpect; they give you bread, do not give them ſtones; they bring mer<g ref="char:EOLhyphen"/>cies to you, do not you caſt your curſes upon them; they attend to your ſalvation, and peace, and comfort, do not requite them evil for good, but let them have good for good, &amp;c.</p>
+            <p n="2">2. Improve their preſent ſurvivance, and your own <note place="margin">They are gi<g ref="char:EOLhyphen"/>ven to you, and for you, they are your ſervants.</note> preſent freedom: O it is a naughty frame of ſpirit to praiſe the dead, but not to prize the living; To ſet out with a large commendation the manifold vertues and ſayings of Miniſters that are dead; yet not to regard, nor make uſe of the parts and pains of thoſe that are living, and Preaching unto us.</p>
+            <p>But let us be more wiſe; <hi>Eliſha</hi> here is found travel<g ref="char:EOLhyphen"/>ling and conferring with <hi>Elijah</hi> before he is taken away: Now you may hear your Miniſters inſtructing and perſwading you, but within a ſhort time you ſhall never ſee, nor hear them more. Now you may go un<g ref="char:EOLhyphen"/>to them, and open your doubts, and diſcover your ſouls wants, and diſeaſes, and crave their Counſel, and take their Directions, and partake of their Inſtructions, and receive comforts by them; But within a ſhort time they are changing, and fainting, and dying, and giving up the Ghoſt, and can never be Inſtrumental to your ſouls any more!</p>
+            <p>O looſe not your tide, and looſe not your Spiritual Opportunity: Every faithful and Godly Miniſter is <note place="margin">Simile.</note> like a Garden in the Spring-time, and the people ſhould be like ſo many Bees, flying every day unto the Flowers in that Garden, to ſuck out the Honey, and carry it home to the Hive.</p>
+            <p>
+               <pb n="13" facs="tcp:115660:11"/>You may now get that Counſel, that Direction, that Satisfaction about the condition of your ſouls, which may ſtick by you all the days of your life.</p>
+            <p>Remember Sirs! As it will be an heavy Judgement if you make no uſe of your Faithful Miniſters, ſo it will cut you to the very heart, when your Miniſters are dead (and then can be of no more uſe unto you) that you made ſo little uſe of them living, that you Traded ſo ſlightly, that you have been ſuch ſtrangers to them, that you did not enrich your ſouls by them. O that peo<g ref="char:EOLhyphen"/>ple, who do enjoy able &amp; faithful Miniſters, were (then) poſſeſſed of two Graces; one is of humility, to ſee their own wants; the other is of wiſdom, to ſee their ſeaſon for the ſupply of them: <hi>Wherefore is there a price put into the hand of a fool ſeeing he hath no heart to make uſe of it?</hi>
+            </p>
+            <p>Thus have I finiſhed the firſt Propoſition; Namely, That even the moſt eminently faithful and zealous Prophets of God may be, and ſhal be taken away from a people: I now proceed to the ſecond Propoſition, which is this.</p>
+            <p>
+               <hi>That the loſs of any one eminently Faithful and Zealous</hi> 
+               <note place="margin">2. Propoſi<g ref="char:EOLhyphen"/>tion.</note> 
+               <hi>Prophet of God, ſhould affect the hearts of the people of God with much Grief and Lamentation: (my Father, my Father; The Charet of Iſrael, and the Horſemen thereof!)</hi>
+            </p>
+            <p>When <hi>Moſes</hi> that eminent Prophet died (There aroſe not a Prophet ſince in <hi>Iſrael</hi> like unto <hi>Moſes) The chil<g ref="char:EOLhyphen"/>dren of Iſrael wept for him in the plains of Moab thirty days;</hi> 
+               <note place="margin">Deut. 34. 8.</note> 
+               <hi>So the days of weeping and mourning for Moſes were ended.</hi> When <hi>Samuel,</hi> that faithful and eminent Prophet died, what a Mourning and Lamentation was made for him? <hi>Samuel died, and all the</hi> Iſraelites <hi>were gathered together</hi> 
+               <note place="margin">1 Sam. 25. 1.</note> 
+               <hi>and lamented him.</hi>
+            </p>
+            <p>The like you Read of <hi>Steven, Devout men carried</hi> 
+               <note place="margin">Acts 8. 2.</note> 
+               <hi>Steven to his burial, and made great Lamentations over him.</hi>
+            </p>
+            <p>
+               <pb n="14" facs="tcp:115660:12"/>There are three things which do concern us, when God takes away any faithful ſervants of his.</p>
+            <p n="1">1. One is a ſerious conſideration of the hand of God in this: For though their death be a mercy unto them, <hi>(Bleſſed are the dead that dye in the Lord: And precious in the ſight of the Lord is the death of his Saints.)</hi> yet <note place="margin">Rev. 14 13. Pſal. 116. 15.</note> their death may be a Judgement to us.</p>
+            <p>As a Godly Miniſters Life and Doctrine is either in <hi>Remedium,</hi> or in <hi>Judieium;</hi> either they are the Savour of life unto life, or they are the Savour of death unto death: So the loſs of them is certainly an advantage to them<g ref="char:EOLhyphen"/>ſelves, and ordinarily it is a Judgement and puniſhment unto a people: And therefore we ſhould not ſlightly paſs over their death, but conſider, and lay ſuch ſtrokes of God to our hearts, <hi>The living will lay it to his heart:</hi> Surely he ſhould, ſurely he will. <note place="margin">Eccleſ. 7. 2.</note>
+            </p>
+            <p n="2">2. The ſecond is a prudent reflexion upon our ſelves; what there is in our ſelves which hath contributed unto ſo great a loſs: For not onely diſeaſes in a Miniſter, but alſo ſins in a people may have a great hand to take away the life of their Miniſter: and therefore there is reaſon for us to reflect and ſearch.</p>
+            <p>In every ordinary loſs that befals us, we ſhould ſearch our hearts, and try our ways, and ſay, Why is this evil come upon us? much more ſhould this be done, when a Spiritual loſs befals us: <hi>When the Lord takes away from us the ſtaffe and the ſtay, the Iudge and the Pro<g ref="char:EOLhyphen"/>phet.</hi> 
+               <note place="margin">Iſa. 3. 1, 2.</note> When he ſmites the Shepherd, and the Sheep are like to be ſcattered; when he removes his Angels from his Churches.</p>
+            <p>Now is it a time to ſtand ſtill, and to gather our ſelves together, and to ſay, what have we been? and what have we done? how have we walked? what hath been our deportment under the Goſpel? what our anſwer<g ref="char:EOLhyphen"/>ableneſs
+<pb n="15" facs="tcp:115660:12"/>
+thereunto? hath not our unthankfulneſs, hath not our barrenneſs, hath not our diſregard, hath not our diſobedience cauſed the Lord to make this breach? to take away the light from us?</p>
+            <p n="3">3. The third is a mournful Lamentation; we ſhould be very ſenſible of ſuch a loſs: yea, in ſome proportion unto the kind and greatneſs of it: For as the enjoyment of an eminently faithful Prophet (or Paſtor) is an ex<g ref="char:EOLhyphen"/>ceeding bleſſing (it is promiſed amongſt the chiefeſt of mercies, <hi>I will give them Paſtors after mine own heart, and thine eyes ſhall ſee thy Teacher.)</hi> So the death of ſuch a <note place="margin">Iſa. 30. 20.</note> one is an exceeding loſs, and conſequently requires ex<g ref="char:EOLhyphen"/>ceeding Grief and Lamentation.</p>
+            <p>There are ſix great loſſes, and do you judge whether <note place="margin">Six great loſſes.</note> they be not ſo.</p>
+            <list>
+               <item>1. The firſt is the loſs of a ſoul, how great is that loſs? all is loſt if that be loſt.</item>
+               <item>2. The ſecond is the loſs of true Religion, and the glory is departed from Iſrael, when that is gone.</item>
+               <item>3. The third is the loſs of Gods ſmiling favour and preſence; when that withdraws, then the Sun is ſet, and it is night, and darkneſs, and fear, and trouble with the ſoul.</item>
+               <item>4. The fourth is the loſs of peace in conſcience; Now beginns the Wars and Tumuls, and the bones are broken.</item>
+               <item>5. The fifth is the loſs of the Goſpel; Now the gates of Heaven are ſhut up, and the worſt of famines ſeiz<g ref="char:EOLhyphen"/>eth our ſouls.</item>
+               <item>6. The ſixth is the loſs of faithful Prophets, and Mini<g ref="char:EOLhyphen"/>ſters of God; Now the ſtones are fallen, and the ſhields of the earth are fallen, and the interpreters, the men of thouſands, and the watch-men ſet upon the Towers, and Bull-works, are cut off, and the
+<pb n="16" facs="tcp:115660:13"/>
+Ambaſſadors of Chriſt, and of peace are called home, and the ſervants and furtherers of our ſalvati<g ref="char:EOLhyphen"/>on are diſcharged.</item>
+            </list>
+            <p>Now the more that any loſs borders upon ſouls, and upon ſalvation, the more heavy and ſharp is that loſs, and with that loſs we ſhould be much afflicted and troubled.</p>
+            <p>Q. <hi>But may ſome ſay, why all this Ado? Why ſuch a cry<g ref="char:EOLhyphen"/>ing out &amp; ſuch a laying to heart, ſuch a grieving and mourn<g ref="char:EOLhyphen"/>ing, and taking on, and troubling of our ſelves upon the loſs and death of faithful and zealous Prophets? What are they more then other men, For place, for uſe, for ſervice, that there muſt be ſuch a ſtir for them? They are a company of buſie and troubleſome Fellows, the troublers of</hi> Iſrael.</p>
+            <p>
+               <hi>Sol.</hi> So indeed did <hi>Ahab</hi> ſpeak of gracious and zea<g ref="char:EOLhyphen"/>lous <hi>Elijah; Ahab</hi> (who ſold himſelf to work wicked<g ref="char:EOLhyphen"/>neſs in the ſight of the Lord.) He ſaid thus unto <hi>Eli<g ref="char:EOLhyphen"/>jah, Art thou he that troubleth Iſrael?</hi> But to let railers go, there are two Reaſons to be found in the Text, for a mournful lamentation upon the death of the faithful Miniſters or Prophets of God; whereof one reſpects the people of God, who ſtood in relation unto them, as children unto a father, and the Prophets ſtood in rela<g ref="char:EOLhyphen"/>tion to them as fathers unto children; and the other Reaſon reſpects the publike civil State.</p>
+            <p>1. In reſpect of the Relation between Faithful Mi<g ref="char:EOLhyphen"/>niſters and a People.</p>
+            <p>Their Relation is that of <hi>Father</hi> and <hi>Children (my Father, my Father, cries Eliſha here)</hi> and truly this Re<g ref="char:EOLhyphen"/>lation hath in it more of Love, and more of Grief then any other Relation; When <hi>Joſeph</hi> buried <hi>Jacob</hi> his Father, <hi>They mourned with a great, and a very ſore Lamen<g ref="char:EOLhyphen"/>tation.</hi> 
+               <note place="margin">Gen. 50. 10.</note>
+            </p>
+            <p>Now every faithful Prophet or Miniſter of God is a Father unto the Saints or people of God.</p>
+            <p n="1">
+               <pb n="17" facs="tcp:115660:13"/>1. For Spiritual Generation: under God he is a Spiritual Father, and begets them again by the Goſpel; this the Apoſtle expr<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſly delivers in ſeveral places.</p>
+            <p>1 Cor. 4. 15. <hi>Though you have ten thouſand Inſtructers in Chriſt, yet have ye not many Fathers: For in Chriſt Jeſus I have begotten you through the Goſpel.</hi> He was an Inſtrument or means uſed by God for their New-Birth. So <hi>Philimon</hi> ver. 10. ſpeaking unto him <hi>of One<g ref="char:EOLhyphen"/>ſimus, whom</hi> (ſaith <hi>Paul</hi> there) <hi>I have begotten in my Bonds.</hi>
+            </p>
+            <p n="2">2. For loving and tender affection; A Father doth not more love his Natural child, then the faithful Miniſter doth thoſe whom he hath begotten unto Chriſt; <hi>Take thine only Son Iſaac whom thou loveſt,</hi> ſaid God to <hi>Abra<g ref="char:EOLhyphen"/>ham, Gen.</hi> 22. 2. <hi>The Elder unto the Elect Lady and her children, whom I love in the Truth.</hi> 2 Joh. 1. So <hi>Paul</hi> to the <hi>Corinthians,</hi> Apologizing for himſelf in not being burdenſome unto them, 2 <hi>Cor.</hi> 11 11. <hi>Wherefore?</hi> ſaith he, <hi>becauſe I love you not?</hi> q. d. Do you think that the want of love in me unto you is the reaſon of that for<g ref="char:EOLhyphen"/>bearance? <hi>God knoweth:</hi> q. d. God himſelf who knows all hearts, he doth know that I love you.</p>
+            <p>Nay, ſo great is the love of benevolence in a faithful Miniſter unto his people, That he is contented for a while to delay his own eternal Salvation and Happineſs, that he may be a little more helpful and uſeful unto his people; This prevalent affection you may read expreſly in the Apoſtle <hi>Paul.</hi>
+            </p>
+            <p>Philippians 1. 23. <hi>I am in a ſtrait betwixt two, having a deſire to depart, and to be with Chriſt, which is far better.</hi> (i. e.) For my ſelf.</p>
+            <p>Verſe 24. <hi>Nevertheleſs to abide in the fleſh is more need<g ref="char:EOLhyphen"/>full for you.</hi>
+            </p>
+            <p>
+               <pb n="18" facs="tcp:115660:14"/>Verſe 25. <hi>And having this confidence, I know that I ſhall abide, and continue with you all, for your furtherance and joy of faith.</hi>
+            </p>
+            <p>The Apoſtles difficulty and ſtreight was about his own perſonal intereſt, and their common ſpiritual good. If I die, I ſhall gain by death, I ſhall be with Chriſt: But then you will looſe, I muſt no more be with you, to ſerve, and further your Faith and Joy: well ſaith he, I am content, I am willing to live a little lon<g ref="char:EOLhyphen"/>ger for the beneficial ſervice of your ſouls, rather then preſently to depart and enjoy my happineſs with Chriſt: O what a love was this?</p>
+            <p n="3">3. For care and watchfulneſs; How careful is the Father for his Children? Children are the uncertain comforts, and the certain cares of their parents: and how watchful is the Father for the good of his Chil<g ref="char:EOLhyphen"/>dren, and againſt any evil that they may fall into? They Counſel them, they look after them, they follow them with their tears, and with their many Prayers. This likewiſe is applied unto the faithful Miniſters of God: They do Naturally care for the eſtate of their People. <hi>Philippians</hi> 2. 20. As if they were led thereunto by in<g ref="char:EOLhyphen"/>ward Bowels, and by a Natural inſtinct: And they are watchful for them, and over them. <hi>Heb.</hi> 13. 17. <hi>Obey them that have the Rule over you, and ſubmit your ſelves, for they watch for your ſouls:</hi> Ah Brethren! when you are ſleeping, they are watching; when you are minding your Trades, then are they ſtudying your Salvation; when you are following your delights, then are they Mourning and Praying for your Souls: They are caring and watching how to get your hearts changed, how to bring in your ſouls to Chriſt, how to get your ſins mortified, your Temptations anſwered, your doubts Re<g ref="char:EOLhyphen"/>ſolved,
+<pb n="19" facs="tcp:115660:14"/>
+your Conſciences to be ſetled and comforted: They fear in your fears, and they are troubled in your troubles, they mourn in your ſorrows, they rejoyce in your peace, &amp;c.</p>
+            <p n="4">4. For all the Offices and Duties of a Father: You read in Scripture of the ſeveral Duties of a Father. As Firſt, Inſtruction and Direction. Secondly, Reproof and Correction. Thirdly, Compaſſion and Comfort. Fourthly, Proviſion and Expences. In all theſe doth every Faithful and Zealous Miniſter of God abundant<g ref="char:EOLhyphen"/>ly appear, and put forth himſelf: He inſtructs the ig<g ref="char:EOLhyphen"/>norant, directs the doubtful, warns and reproves the un<g ref="char:EOLhyphen"/>ruly, pitties the weak, comforts thoſe that are caſt down, provides food of all ſorts for his people, milk for Babes, and meat for thoſe of full Age: Lays out him<g ref="char:EOLhyphen"/>ſelf, <note place="margin">Heb. 5. 14. 2 Cor 13 11.</note> ſpends and is ſpent; lays out all his received Trea<g ref="char:EOLhyphen"/>ſure, and ſtock of ſpiritual goods amongſt them; Is grieved if his children walk unworthy of the Goſpel, and nothing doth more rejoyce him then to ſee them walking in the truth, and proſpering in Chriſt; As his firſt great deſire is to match every one of them to Chriſt, ſo his next great endeavor is that they may abound with all the fruits of Righteouſneſs which are by Jeſus Chriſt.</p>
+            <p>Now judge what the loſs of ſuch a perſon is: It is ſad to looſe ſuch a faithful friend as <hi>Jonathan,</hi> and ſuch a loving and tender Father as <hi>Iacob</hi> was; much more ſad and heavy is it to looſe ſuch a Father whom God hath made an Inſtrument to Regenerate our Souls, to reſcue us from the power of darkneſs, to bring us unto Jeſus Chriſt, and unto Salvation by him: When a perſon can ſay of a Miniſter, had not the Lord ſent ſuch a one, I had (for ought I know) been damned, I had gone on
+<pb n="20" facs="tcp:115660:15"/>
+in my ſinful curſed ways, and had everlaſtingly periſh<g ref="char:EOLhyphen"/>ed: But it pleaſed the Lord by his Miniſtry to open mine eyes, and to awaken my conſcience, to make me to ſee my ſins, and all my ſpiritual miſery, and to humble and break my heart, and to direct me in the way how my poor ſoul might be brought in to Chriſt: Yea, and did work ſo effectually, that at length I did by faith cloſe with Chriſt, and ſince that my ſoul hath been re<g ref="char:EOLhyphen"/>freſhed with the joys and comforts of the Holy Ghoſt: And beſides all this, I have received (at ſeveral times) ſpecial directions for my walking, ſingular helps againſt Doubts, Fears, and Temptations, &amp;c. Truly the loſs of ſuch a Miniſter, of ſuch a Father will diſtreſs us, will melt us, will make our hearts to mourn and la<g ref="char:EOLhyphen"/>ment.</p>
+            <p>2. In reſpect of the Publique Civil State.</p>
+            <p>Unto which Faithful and Zealous Prophets are the <hi>Charet of Iſrael, and the Horſemen thereof;</hi> Some Render the words, <hi>Currus Iſraelis &amp; militia ejus.</hi>
+            </p>
+            <p>Faithful and Zealous Drophets of God are uſeful, and ſerviceable: Not only for the ſpiritual eſtate of mens Souls, but alſo for the Temporal Intereſt of a Ci<g ref="char:EOLhyphen"/>vil State; <hi>Micah</hi> ſaid, <hi>Now I know that the Lord will do me good, ſeeing I have a Levite to my Prieſt.</hi> I dare confi<g ref="char:EOLhyphen"/>dently <note place="margin">Judg. 17. 13.</note> affirm that the Faithful Miniſters of God are ſo far from being a Curſe and Detriment unto a Nation, that they are a bleſſing unto it, and a ſtrength and ſafety unto it; Nay, let me ſpeak truly, They are of more ſtrength and ſafety then all <hi>Charets and Horſmen.</hi>
+            </p>
+            <p>There is (I confeſs) ſome ſtrength unto a people by them, &amp; ſo there is ſome ſtrength unto a people by wiſe Counſellors, and ſo there is ſome ſtrength unto a peo<g ref="char:EOLhyphen"/>ple by Unity and Concord at home, and ſo there is
+<pb n="21" facs="tcp:115660:15"/>
+ſome ſtrength by confederations abroad: but the chiefeſt ſtrength of a ſtate (under God) lies in Faith<g ref="char:EOLhyphen"/>ful and Zealous Prophets, and in Faithful and Godly perſons.</p>
+            <p>Queſt. <hi>You will ſay, how can this be? what are they but a company of weak men? and (commonly) deſpiſed men? what good can they do to a Civil State, or for it?</hi>
+            </p>
+            <p>
+               <hi>Sol.</hi> It is granted they are but weak men, and they are deſpiſed men in the world: yet it was the poor man (whom no man remembred) who did by his wiſdom <note place="margin">Eccle. 9 16.</note> deliver the City: And you read that by <hi>a Prophet the Lord brought</hi> Iſrael <hi>out of</hi> Egypt, <hi>and by a Prophet was he</hi> 
+               <note place="margin">Hoſ. 12. 13.</note> 
+               <hi>preſerved:</hi> But I ſhall by a few Arguments demonſtrate that the faithful and zealous Miniſters of God are the greateſt ſtrength and ſafety unto a Nation.</p>
+            <p n="1">1. There is no greater ſtrength and ſafety for a peo<g ref="char:EOLhyphen"/>ple then this, that God owns them, and God is pre<g ref="char:EOLhyphen"/>ſent <note place="margin">Rom. 8. 31.</note> with them: The greateſt people on earth are no<g ref="char:EOLhyphen"/>thing if the Lord leaves them, and departs from them: Therefore ſaid <hi>Moſes</hi> unto the Lord, <hi>If thy preſence goes</hi> 
+               <note place="margin">Exo. 33. 15.</note> 
+               <hi>not with us, carry us not hence.</hi> q. d. Lord! <hi>We are no<g ref="char:EOLhyphen"/>thing without thy preſence, we cannot be a ſufficiency to our ſelves, nor a ſafety to our ſelves at all: Thy preſence is all in all, to us, and for us.</hi>
+            </p>
+            <p>But the faithful and zealous Prophets (or Miniſters) of God, are a ſpecial means of Gods preſence with a people, which may thus appear.</p>
+            <p n="1">1. They are a means to ingage a people unto God, to bring their hearts unto him, and to acknowledge and own him onely; you read this in <hi>Elijah,</hi> who brought back the hearts of the people of Iſrael unto the Lord, <note place="margin">1 King 18. 37 3<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> and they cryed out, <hi>The Lord is God, the Lord is God.</hi>
+            </p>
+            <p n="2">2. They are a means to keep the worſhip of God and his Ordinances pure, and remember this, that as
+<pb n="22" facs="tcp:115660:16"/>
+long as a people do own God, and as long as his wor<g ref="char:EOLhyphen"/>ſhip and Ordinances are preſerved pure amongſt them, ſo long God is preſent with them, who is their onely rock and ſafety.</p>
+            <p n="2">2. They are the ſpecial Inſtruments which God doth uſe to keep a people from ſin, and to bring them unto Repentance in caſe of ſinning: They warn and threaten them from the Lord, and teſtifie and cry aloud againſt their tranſgreſſions, and will not ſuffer them to go on in wickedneſs, but ſtrive with them, and exhort them daily, and preſs upon them all ſorts of Argu<g ref="char:EOLhyphen"/>ments (from Judgements and mercies) to ceaſe to do evil, and to learn to do well, to forſake their evil ways, and to turn to the Lord<g ref="char:punc">▪</g> this we find in Scripture, and this we find in experience, and therefore they are the moſt eminent means of ſafety unto a people.</p>
+            <p>Beloved, they are our ſins (and they onely are) the fountains of all our miſeries; our ſinful evils brings up<g ref="char:EOLhyphen"/>on us all our miſerable evils; Thy ways and thy do<g ref="char:EOLhyphen"/>ings have procured theſe things unto thee, this is thy wickedneſs <hi>(i. e.)</hi> the fruit and effect thereof. <note place="margin">Jer. 4. 18.</note>
+            </p>
+            <p>And if ſins be removed, then miſeries are remo<g ref="char:EOLhyphen"/>ved, and all danger is over: God is again wel-pleaſed, and returns with loving kindneſs, and much proſpe<g ref="char:EOLhyphen"/>rity unto a people, as you may read in the times of the Judges, and of the Kings.</p>
+            <p n="3">3. They are the choiſeſt Inſtruments which God doth uſe to teach a people his will and ways; by them doth God make known his Laws and Statutes, and <note place="margin">1 Sam. 12. 23. <hi>I will teach you the good, and the right way.</hi>
+               </note> ways; This is the way, walk ye in it; In theſe pathes you ſhall find reſt unto your ſouls: and by them doth God keep a people in his ways, they are the Inſtru<g ref="char:EOLhyphen"/>ments uſed by God to keep a people upright and ſted<g ref="char:EOLhyphen"/>faſt in walking before him.</p>
+            <p>
+               <pb n="23" facs="tcp:115660:16"/>And this is a peoples ſtrength and ſafety: Gods ways (and none but his) are wayes of ſafety, while a people walks in his ways, he will be their ſun and ſhield, their rock and ſtrength, their God, and their ſalvation.</p>
+            <p n="4">4. They are of ſingular uſe and benefit to the lead<g ref="char:EOLhyphen"/>ers of a people (if they will receive ſuch among them) the faithfull Prophets of God have been a means to convert wicked Governours, and to keep others of them right in the ways of God; you read of <hi>Iehoaſh, that he did that which was right in the ſight of the Lord, all his dayes; wherein</hi> Iehoida <hi>the Prieſt inſtructed him:</hi> See of what excellent uſe that good man was unto <hi>Je<g ref="char:EOLhyphen"/>hoaſh.</hi> 
+               <note place="margin">2 King. 12. 2.</note>
+            </p>
+            <p>There are none who will deal with the Governours of a people ſo plainly, ſo conſcientiouſly, ſo ſeriouſly, ſo earneſtly, as the faithfull Prophets of God: They will ſpeak to them, when none elſe dare ſpeak to them; they will tell them of their ſins, as well as their inferiours; they will make known unto them all the mind and will of God concerning them; they will put them upon the power and practice of Godlineſs, as well as others, nay, more then others; they will ſtir up their hearts to be zealous for God, and his truth, and his ways, and not to ſuffer any provoca<g ref="char:EOLhyphen"/>tion of God in the Land.</p>
+            <p>Now this comes to be of great ſtrength and ſafety to a people: As a peoples miſery lies very much in the iniquity of Rulers, ſo a peoples happineſs lies much in the godlineſs of their Rulers; if the Judgements of Rulers are right in the things of God, if their hearts do indeed love God, if they themſelves do make con<g ref="char:EOLhyphen"/>ſcience to walk in the ways of God, if they once come to be tender of the honour of God, and will own
+<pb n="24" facs="tcp:115660:17"/>
+and encourage the power and pract<gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> of Godlineſs: why ſuch Rulers are a ſingular bleſſing unto a people, and they are a means of manifold bleſſings unto them: And the<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>efore faithful and zealous Prophets are an emi<g ref="char:EOLhyphen"/>nent ſtrength and ſafety to a Nation, who are ſpecial helps for all thoſe gracious Qualities in ſuch as do Go<g ref="char:EOLhyphen"/>vern a Nation.</p>
+            <p n="5">5. I might add one thing more to demonſtrate the aſſertion, and that is this; Faithful Prophets are much in prayer for a Civil State; and their prayers are very <note place="margin">1 Sam 7. 5. 9. 2.</note> prevailing with God: Said <hi>Samuel, Gather all</hi> Iſrael <hi>to<g ref="char:EOLhyphen"/>gether to</hi> Mizpeh, <hi>and I will pray for you unto the Lord: And he cried unto the Lord for</hi> Iſrael, <hi>and the Lord heard him.</hi> His prayer was a means to diſcomfit the Hoſt of the <hi>Philiſt<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s:</hi> ſo when there was a great drought in the Land of <hi>Iſrael,</hi> that it was like to periſh, <hi>Elijah</hi> prayed, <note place="margin">Jam. 5. 18.</note> 
+               <hi>and the heavens gave rain, and the earth brought forth her fruits:</hi> His prayer was a means to preſerve the Land: many more inſtances might be given, but I muſt haſten to the Application of all this unto our ſelves.</p>
+            <p>Is the death and loſs of any one faithful and zealous <note place="margin">Uſe. 1.</note> Prophet of God, a juſt cauſe of grief and lamentation? Then what ſad thoughts, and melting affections ſhould take us up for the death and loſs of many eminently faithful and zealous Prophets of God? We have (of <note place="margin">Doctor <hi>Hill.</hi> Mr. <hi>Wilſon..</hi> Mr. <hi>Whitaker,</hi> &amp;c.</note> late) loſt many precious Servants of Chriſt, many faith<g ref="char:EOLhyphen"/>ful laborers in his vine-yard, I fear that we have not laid thoſe loſſes to heart; that may be affirmed of moſt of us, which is ſpoken in <hi>Iſa.</hi> 57. 1. <hi>The righteous periſheth, and no man layeth it to heart, and merciful men are taken away, and no man conſidereth that the righteous are taken away from the evil to come.</hi>
+            </p>
+            <p>There are (unto me) yet four ſad preſages of ſome fu<g ref="char:EOLhyphen"/>ture evil, and they are;</p>
+            <list>
+               <item>
+                  <pb n="25" facs="tcp:115660:17"/>1. The great Indifferency about the great Truths of Chriſt.</item>
+               <item>2. The great want of the power of Godlineſs in the Land: ſuperſtition and prophaneneſs ſtill abounding.</item>
+               <item>3. The great contempt of the Miniſters of the Go<g ref="char:EOLhyphen"/>ſpel.</item>
+               <item>4. The great Inconſideration of the death of ſo ma<g ref="char:EOLhyphen"/>ny choice Prophets and Servants of God: To many perſons their life is a burden, and their death is a rejoyce<g ref="char:EOLhyphen"/>ing.</item>
+            </list>
+            <p>When <hi>Metullus</hi> heard of the death of <hi>Scipio Afri<g ref="char:EOLhyphen"/>canus,</hi> he ran out into the publick <hi>Forum,</hi> or Market<g ref="char:EOLhyphen"/>place, and cryed out, <hi>O Citizens, come ye forth, and con<g ref="char:EOLhyphen"/>ſult</hi> 
+               <note place="margin">Concurrite cives, <gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>bis veſtrae moenia corruerunt.</note> 
+               <hi>what is to be done, for the walls of your City are fallen down:</hi> Surely there is matter of deep thoughts, and ſad afflictions in theſe ſolemn diſpenſations of God of late. For an Husband-man to pull out the weeds in the Gar<g ref="char:EOLhyphen"/>den, this is nothing: But for him to pluck up the Flowers, and the choice Plants, there is ſomething in this: for him to take away the rotten Hedge, this is no<g ref="char:EOLhyphen"/>thing, but to break down the walls about the Vine-yard, there is ſomething in this. To take off a Tile from the top of the houſe, it is nothing, O but to take away the Pillars, there is ſome great change now indeed. We read that when <hi>Noah</hi> (that Preacher of righteouſneſs) was taken into the Ark, then the flood followed; ſeldom doth God gather his Prophets by cluſters (as it were) but there is ſome great evil neer unto a people: never<g ref="char:EOLhyphen"/>theleſs
+<pb n="26" facs="tcp:115660:18"/>
+people (generally) are ſecure, and ſtupid, and fooliſh, though God ſmites them in one of the choiceſt bleſſings which he vouchſafes to the Sons of men.</p>
+            <p>They ſee loſs upon loſs, and death upon death; here a Miniſter dead, and there a Miniſter carried to his grave, and uſually this is all the fruits of it; Is ſuch a one dead? and I pray you how long was he ſick? and whereof did he dye? and what hath he left his poor wife and chil<g ref="char:EOLhyphen"/>dren? It is great pitty, the man was an honeſt man, and preacht well; and here is all.</p>
+            <p>Now to ſuch careleſs, and cold, and dull perſons (eſpecially if any ſuch have had any reference unto faithful and laborious Miniſters) who can thus ſlightly paſs over the death of their Paſtors, I have four things to ſay.</p>
+            <p n="1">1. It is a ſign that you never truly loved their per<g ref="char:EOLhyphen"/>ſons; No, no, for all your complements, and for all your pretences, yet you never truly loved them; of all affecti<g ref="char:EOLhyphen"/>ons, love is moſt apprehenſive and ſenſible. If it enjoyes, there is much delight: If it looſeth, there is much ſor<g ref="char:EOLhyphen"/>row: love is very ſenſible of what it enjoyes, and of what it looſes.</p>
+            <p n="2">2. It is a ſign that you never prized them in their Mi<g ref="char:EOLhyphen"/>niſtry: if you make no more of them being dead, cer<g ref="char:EOLhyphen"/>tainly you made little of them being living: Affections do moſt appear and diſcover themſelves upon death: abſence, and difficulties, and oppoſitions, and death, theſe are tryals and diſcoveries of true love, and there<g ref="char:EOLhyphen"/>fore if you can ſo ſlightly bear the loſs of your faithful
+<pb n="27" facs="tcp:115660:18"/>
+Miniſters, aſſuredly you never knew the worth and uſe of them, as Miniſters of Chriſt.</p>
+            <p n="3">3. It is a ſign that you never received any Spiritual good by them at all: If you had done ſo, your hearts would have been knit unto them in life, and at leaſt have ſhed a tear for them in death.</p>
+            <p>Their death would preſently call up all thoſe heaven<g ref="char:EOLhyphen"/>ly counſels, and all thoſe ſeaſonable directions, and all thoſe ſpiritual ſatisfactions, and all thoſe ſweet comforts of God, which you by them did receive: At ſuch a time I remember how he thus ſpake, and at ſuch a Sermon, and at ſuch a meeting, and in ſuch a conference; and now I ſhall never ſee him more, nor confer with him more: The heart would melt to think of theſe things.</p>
+            <p n="4">4. It is a ſign that God hath in Judgement taken away your faithful Miniſters from you, even for your want of love to the Truth, and for your ſlighting and negle<g ref="char:EOLhyphen"/>cting the means of Grace, for which you muſt give a ſe<g ref="char:EOLhyphen"/>vere account unto God.</p>
+            <p>And let me tell you, that ſo many faithful Miniſters as you have heard, and ſo many heavenly Sermons as you have heard, (or ſhould have heard) the more heavy will the account be unto God, and the more dreadful will Gods Judgements be upon you for your unthank<g ref="char:EOLhyphen"/>fulneſs and unprofitableneſs: I grant that the Prophets dye, but remember, that a peoples accounts for the pains and labours of thoſe Prophets never die, but do re<g ref="char:EOLhyphen"/>main upon Record as a witneſs againſt you.</p>
+            <p>The next uſe ſhall be an Item unto all of us here this <note place="margin">Uſe. 2.</note> day, and more eſpecially to them who are particularly
+<pb n="28" facs="tcp:115660:19"/>
+intereſſed in our great loſs; That they would in a ſingu<g ref="char:EOLhyphen"/>lar manner lay to heart this great breach which God hath made and this great loſs which hath ſuddenly, and unexpectedly befallen us! Ah Sirs, Who that ſaw and heard that precious Miniſter of Chriſt, the beginning of the laſt week, did think to hear of his death towards the latter end of the ſame week? who that heard him preaching of <hi>laying up Treaſure in heaven,</hi> did imagine that ſuch a treaſure ſhould be taken away from earth, and himſelf (ſo ſuddenly) be laid up in heaven!</p>
+            <p>Alas! For me to ſpeak of this Prophet, and of one common loſs, of the many loſſes in this one loſs; truly I am not fit, I am not able, becauſe I knew him much, and honored him much, and loved him much: only this I will ſay of him; That one ſo plain in heart, ſo deep in judgement, ſo painful in ſtudies, ſo frequent and powerful, and exact in preaching, ſo laborious with, and uſeful to his Congregation, ſo able to convince the Gain<g ref="char:punc">▪</g> ſayer, ſo zealous in contending for the truths of Chriſt, ſo fit for all Miniſterial ſervices, (beſides his Perſonal and Domeſtical courſe of Godlineſs) of his time, I have not known the like.</p>
+            <p>Really, he was another <hi>Elijah;</hi> let me a little compare them: How zealous was <hi>Elijah</hi> againſt the falſe Pro<g ref="char:EOLhyphen"/>phets of <hi>Baal?</hi> How laborious was <hi>Elijah</hi> to bring back the people of <hi>Iſrael</hi> to the true God, and to the true wor<g ref="char:EOLhyphen"/>ſhip of God? How ſtout and reſolute was <hi>Elijah</hi> in de<g ref="char:EOLhyphen"/>livering the Meſſage of God, even to the face of King <hi>Ahab?</hi> How quick was he with <hi>Ahaziah</hi> for ſending meſſengers unto <hi>Baalzebub</hi> the God of <hi>Ekron?</hi> How fer<g ref="char:EOLhyphen"/>vent and potent in prayer? How diligently laborious to his dying day? How ſuddain was his remove and de<g ref="char:EOLhyphen"/>partute?
+<pb n="29" facs="tcp:115660:19"/>
+All this Spirit, and much more then this of the Spirit of <hi>Elijah</hi> was found in him.</p>
+            <p>Now if you do but conſider what eminent Gifts and Graces appeared in him, and how ſeriouſly, and humbly, and dexteriouſly theſe were laid out for the glory of Chriſt, and for the ſervice and benefit of the Church of Chriſt, we have cauſe in the loſs of ſuch a Prophet to cry out, <hi>My Father, my Father; The Charet of</hi> Iſrael, <hi>and the Horſemen thereof.</hi>
+            </p>
+            <p>But I will ſpeak no more of him, nor to you of him; his death I ſee hath made a general and deep Impreſſion <note place="margin">Uſe. 3.</note> upon your hearts: All that remains to be ſpoken, ſhall be unto you his Hearers, and eſpecially unto you his late Congregation, there are four things which I would brief<g ref="char:EOLhyphen"/>ly offer unto you.</p>
+            <p n="1">1. Grieve in a Spiritual way, and upon Spiritual con<g ref="char:EOLhyphen"/>ſiderations, that God hath deprived you of ſuch a Spiri<g ref="char:EOLhyphen"/>tual Paſtor, and Helper, and Comforter.</p>
+            <p n="2">2. Remember and lay up thoſe ſoul-ſaving Truths which you have ſo often heard from him, and wiſely improve them, in all your occaſions: when <hi>Elijah</hi> was wrapt up to heaven, <hi>Eliſha</hi> took up the cloak which fell from him, and made uſe thereof: O take up all thoſe gracious Inſtructions which fell from him in his life, and make uſe of them now after his death, keep them alive, and ſo you ſhall find him ſtill living.</p>
+            <p n="3">3. Hold faſt that form of wholſom words by him from Chriſt delivered unto you; and as you have received, ſo walk in them, let not your ſtedfaſtneſs dye, now he is dead.</p>
+            <p n="4">
+               <pb n="30" facs="tcp:115660:20"/>4. Moſt humbly and earneſtly ſtrive with the Lord, by Faſting and Prayer, that ſeeing it is his will to take away <hi>Elijah</hi> from you, that he would be pleaſed in his love and mercy to give unto you an <hi>Eliſha</hi> in his room.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:115660:20"/>
+         </div>
+      </body>
+   </text>
+</TEI>
